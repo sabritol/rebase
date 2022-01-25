@@ -2,5 +2,5 @@
 
 ###Lorem ipsum
 
-###Ipsum NEW TEXT lorem 
+###Ipsum NEW TEXT IN DEV BRANCH lorem 
 
